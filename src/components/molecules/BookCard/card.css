@@ -1,0 +1,43 @@
+.book-card_title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1.33;
+    color: #03314b;
+    position: relative;
+    width: 100%;
+    max-height: 2.9925rem;
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+  }
+  .book-card_author {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #6d787e;
+    margin-bottom: 0.5rem;
+  }
+  .book-card_stats {
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.57;
+    color: #6d787e;
+    display: flex;
+    flex-wrap: wrap;
+    color: #3a4649;
+  }
+  .book-card_stats-item {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 0;
+    margin-bottom: 0.5rem;
+    white-space: nowrap;
+  }
+  .icon {
+    margin-right: 0.5rem;
+  }
+  .book-card_readTime{
+    font-family: 'Cera pro light';
+  }
+  .button{
+    padding:0;
+  }

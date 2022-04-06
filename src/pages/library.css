@@ -1,0 +1,12 @@
+.tab-on-hover:hover {
+  color: yellow;
+}
+
+.tabs.Mui-selected {
+  color: "#00FF00"
+}
+
+.tabs.Mui-focused {
+  color: "#00FF00"
+
+}
